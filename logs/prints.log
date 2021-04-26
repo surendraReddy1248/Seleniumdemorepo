@@ -1,0 +1,243 @@
+12:04:01.873 [main] DEBUG test.LoginTest - Browser got Launched
+12:04:02.992 [main] DEBUG test.LoginTest - Navigated to the application
+12:04:03.181 [main] DEBUG test.LoginTest - clicked on my account DropDown
+12:04:03.622 [main] DEBUG test.LoginTest - clicked on LoginOption
+12:04:03.879 [main] DEBUG test.LoginTest - Entered UserName
+12:04:04.061 [main] DEBUG test.LoginTest - Entered Password
+12:04:04.638 [main] DEBUG test.LoginTest - clicked on login button
+12:04:04.823 [main] INFO  test.LoginTest - User Logged in successfully
+12:04:04.980 [main] DEBUG test.LoginTest - Browser closed
+12:04:07.272 [main] DEBUG test.LoginTest - Browser got Launched
+12:04:09.044 [main] DEBUG test.LoginTest - Navigated to the application
+12:04:09.284 [main] DEBUG test.LoginTest - clicked on my account DropDown
+12:04:09.745 [main] DEBUG test.LoginTest - clicked on LoginOption
+12:04:10.027 [main] DEBUG test.LoginTest - Entered UserName
+12:04:10.223 [main] DEBUG test.LoginTest - Entered Password
+12:04:10.807 [main] DEBUG test.LoginTest - clicked on login button
+12:04:10.975 [main] INFO  test.LoginTest - User Logged in successfully
+12:04:11.163 [main] DEBUG test.LoginTest - Browser closed
+12:04:13.137 [main] DEBUG test.LoginTest - Browser got Launched
+12:04:14.511 [main] DEBUG test.LoginTest - Navigated to the application
+12:04:14.658 [main] DEBUG test.LoginTest - clicked on my account DropDown
+12:04:15.079 [main] DEBUG test.LoginTest - clicked on LoginOption
+12:04:15.288 [main] DEBUG test.LoginTest - Entered UserName
+12:04:15.462 [main] DEBUG test.LoginTest - Entered Password
+12:04:15.964 [main] DEBUG test.LoginTest - clicked on login button
+12:04:26.017 [main] ERROR test.LoginTest - Invalid UserName and password 
+12:04:30.248 [main] DEBUG test.LoginTest - Browser closed
+14:08:55.111 [TestNG-tests-1] DEBUG test.LoginTest - Browser got Launched
+14:08:58.129 [TestNG-tests-1] DEBUG test.LoginTest - Navigated to the application
+14:08:58.859 [TestNG-tests-1] DEBUG test.LoginTest - clicked on my account DropDown
+14:08:59.463 [TestNG-tests-1] DEBUG test.LoginTest - clicked on LoginOption
+14:08:59.869 [TestNG-tests-1] DEBUG test.LoginTest - Entered UserName
+14:09:00.156 [TestNG-tests-1] DEBUG test.LoginTest - Entered Password
+14:09:00.853 [TestNG-tests-1] DEBUG test.LoginTest - clicked on login button
+14:09:01.151 [TestNG-tests-1] INFO  test.LoginTest - User Logged in successfully
+14:09:01.314 [TestNG-tests-1] DEBUG test.LoginTest - Browser closed
+14:09:03.501 [TestNG-tests-1] DEBUG test.LoginTest - Browser got Launched
+14:09:05.389 [TestNG-tests-1] DEBUG test.LoginTest - Navigated to the application
+14:09:05.550 [TestNG-tests-1] DEBUG test.LoginTest - clicked on my account DropDown
+14:09:06.018 [TestNG-tests-1] DEBUG test.LoginTest - clicked on LoginOption
+14:09:06.231 [TestNG-tests-1] DEBUG test.LoginTest - Entered UserName
+14:09:06.431 [TestNG-tests-1] DEBUG test.LoginTest - Entered Password
+14:09:06.977 [TestNG-tests-1] DEBUG test.LoginTest - clicked on login button
+14:09:07.133 [TestNG-tests-1] INFO  test.LoginTest - User Logged in successfully
+14:09:07.311 [TestNG-tests-1] DEBUG test.LoginTest - Browser closed
+14:09:09.413 [TestNG-tests-1] DEBUG test.LoginTest - Browser got Launched
+14:09:11.094 [TestNG-tests-1] DEBUG test.LoginTest - Navigated to the application
+14:09:11.254 [TestNG-tests-1] DEBUG test.LoginTest - clicked on my account DropDown
+14:09:11.622 [TestNG-tests-1] DEBUG test.LoginTest - clicked on LoginOption
+14:09:11.918 [TestNG-tests-1] DEBUG test.LoginTest - Entered UserName
+14:09:12.097 [TestNG-tests-1] DEBUG test.LoginTest - Entered Password
+14:09:12.677 [TestNG-tests-1] DEBUG test.LoginTest - clicked on login button
+14:09:22.879 [TestNG-tests-1] ERROR test.LoginTest - Invalid UserName and password 
+14:09:23.073 [TestNG-tests-1] DEBUG test.LoginTest - Browser closed
+14:47:27.382 [TestNG-tests-1] DEBUG test.LoginTest - Browser got Launched
+14:47:30.622 [TestNG-tests-1] DEBUG test.LoginTest - Navigated to the application
+14:47:30.942 [TestNG-tests-1] DEBUG test.LoginTest - clicked on my account DropDown
+14:47:31.584 [TestNG-tests-1] DEBUG test.LoginTest - clicked on LoginOption
+14:47:31.974 [TestNG-tests-1] DEBUG test.LoginTest - Entered UserName
+14:47:32.236 [TestNG-tests-1] DEBUG test.LoginTest - Entered Password
+14:47:32.846 [TestNG-tests-1] DEBUG test.LoginTest - clicked on login button
+14:47:33.028 [TestNG-tests-1] INFO  test.LoginTest - User Logged in successfully
+14:47:33.268 [TestNG-tests-1] DEBUG test.LoginTest - Browser closed
+14:47:35.409 [TestNG-tests-1] DEBUG test.LoginTest - Browser got Launched
+14:47:37.233 [TestNG-tests-1] DEBUG test.LoginTest - Navigated to the application
+14:47:37.380 [TestNG-tests-1] DEBUG test.LoginTest - clicked on my account DropDown
+14:47:37.801 [TestNG-tests-1] DEBUG test.LoginTest - clicked on LoginOption
+14:47:38.039 [TestNG-tests-1] DEBUG test.LoginTest - Entered UserName
+14:47:38.223 [TestNG-tests-1] DEBUG test.LoginTest - Entered Password
+14:47:38.896 [TestNG-tests-1] DEBUG test.LoginTest - clicked on login button
+14:47:39.034 [TestNG-tests-1] INFO  test.LoginTest - User Logged in successfully
+14:47:39.155 [TestNG-tests-1] DEBUG test.LoginTest - Browser closed
+14:47:41.071 [TestNG-tests-1] DEBUG test.LoginTest - Browser got Launched
+14:47:42.768 [TestNG-tests-1] DEBUG test.LoginTest - Navigated to the application
+14:47:42.935 [TestNG-tests-1] DEBUG test.LoginTest - clicked on my account DropDown
+14:47:43.654 [TestNG-tests-1] DEBUG test.LoginTest - clicked on LoginOption
+14:47:43.860 [TestNG-tests-1] DEBUG test.LoginTest - Entered UserName
+14:47:44.044 [TestNG-tests-1] DEBUG test.LoginTest - Entered Password
+14:47:44.614 [TestNG-tests-1] DEBUG test.LoginTest - clicked on login button
+14:47:54.701 [TestNG-tests-1] ERROR test.LoginTest - Invalid UserName and password 
+14:47:59.023 [TestNG-tests-1] DEBUG test.LoginTest - Browser closed
+14:50:19.842 [TestNG-tests-1] DEBUG test.LoginTest - Browser got Launched
+14:50:21.721 [TestNG-tests-1] DEBUG test.LoginTest - Navigated to the application
+14:50:22.503 [TestNG-tests-1] DEBUG test.LoginTest - clicked on my account DropDown
+14:50:23.648 [TestNG-tests-1] DEBUG test.LoginTest - clicked on LoginOption
+14:50:24.453 [TestNG-tests-1] DEBUG test.LoginTest - Entered UserName
+14:50:24.745 [TestNG-tests-1] DEBUG test.LoginTest - Entered Password
+14:50:25.339 [TestNG-tests-1] DEBUG test.LoginTest - clicked on login button
+14:50:25.627 [TestNG-tests-1] INFO  test.LoginTest - User Logged in successfully
+14:50:26.139 [TestNG-tests-1] DEBUG test.LoginTest - Browser closed
+14:50:28.080 [TestNG-tests-1] DEBUG test.LoginTest - Browser got Launched
+14:50:29.817 [TestNG-tests-1] DEBUG test.LoginTest - Navigated to the application
+14:50:30.000 [TestNG-tests-1] DEBUG test.LoginTest - clicked on my account DropDown
+14:50:30.432 [TestNG-tests-1] DEBUG test.LoginTest - clicked on LoginOption
+14:50:30.640 [TestNG-tests-1] DEBUG test.LoginTest - Entered UserName
+14:50:30.828 [TestNG-tests-1] DEBUG test.LoginTest - Entered Password
+14:50:31.504 [TestNG-tests-1] DEBUG test.LoginTest - clicked on login button
+14:50:31.652 [TestNG-tests-1] INFO  test.LoginTest - User Logged in successfully
+14:50:31.814 [TestNG-tests-1] DEBUG test.LoginTest - Browser closed
+14:50:33.894 [TestNG-tests-1] DEBUG test.LoginTest - Browser got Launched
+14:50:35.011 [TestNG-tests-1] DEBUG test.LoginTest - Navigated to the application
+14:50:35.153 [TestNG-tests-1] DEBUG test.LoginTest - clicked on my account DropDown
+14:50:35.512 [TestNG-tests-1] DEBUG test.LoginTest - clicked on LoginOption
+14:50:35.808 [TestNG-tests-1] DEBUG test.LoginTest - Entered UserName
+14:50:35.976 [TestNG-tests-1] DEBUG test.LoginTest - Entered Password
+14:50:36.374 [TestNG-tests-1] DEBUG test.LoginTest - clicked on login button
+14:50:46.453 [TestNG-tests-1] ERROR test.LoginTest - Invalid UserName and password 
+14:50:50.709 [TestNG-tests-1] DEBUG test.LoginTest - Browser closed
+15:33:55.168 [TestNG-tests-1] DEBUG test.LoginTest - Browser got Launched
+15:33:59.033 [TestNG-tests-1] DEBUG test.LoginTest - Navigated to the application
+15:33:59.439 [TestNG-tests-1] DEBUG test.LoginTest - clicked on my account DropDown
+15:34:00.389 [TestNG-tests-1] DEBUG test.LoginTest - clicked on LoginOption
+15:34:00.706 [TestNG-tests-1] DEBUG test.LoginTest - Entered UserName
+15:34:01.047 [TestNG-tests-1] DEBUG test.LoginTest - Entered Password
+15:34:02.052 [TestNG-tests-1] DEBUG test.LoginTest - clicked on login button
+15:34:02.374 [TestNG-tests-1] INFO  test.LoginTest - User Logged in successfully
+15:34:02.577 [TestNG-tests-1] DEBUG test.LoginTest - Browser closed
+15:34:04.779 [TestNG-tests-1] DEBUG test.LoginTest - Browser got Launched
+15:34:06.083 [TestNG-tests-1] DEBUG test.LoginTest - Navigated to the application
+15:34:06.452 [TestNG-tests-1] DEBUG test.LoginTest - clicked on my account DropDown
+15:34:06.894 [TestNG-tests-1] DEBUG test.LoginTest - clicked on LoginOption
+15:34:07.128 [TestNG-tests-1] DEBUG test.LoginTest - Entered UserName
+15:34:07.332 [TestNG-tests-1] DEBUG test.LoginTest - Entered Password
+15:34:08.106 [TestNG-tests-1] DEBUG test.LoginTest - clicked on login button
+15:34:08.282 [TestNG-tests-1] INFO  test.LoginTest - User Logged in successfully
+15:34:08.455 [TestNG-tests-1] DEBUG test.LoginTest - Browser closed
+15:34:10.470 [TestNG-tests-1] DEBUG test.LoginTest - Browser got Launched
+15:34:11.595 [TestNG-tests-1] DEBUG test.LoginTest - Navigated to the application
+15:34:11.752 [TestNG-tests-1] DEBUG test.LoginTest - clicked on my account DropDown
+15:34:12.292 [TestNG-tests-1] DEBUG test.LoginTest - clicked on LoginOption
+15:34:12.514 [TestNG-tests-1] DEBUG test.LoginTest - Entered UserName
+15:34:12.693 [TestNG-tests-1] DEBUG test.LoginTest - Entered Password
+15:34:13.326 [TestNG-tests-1] DEBUG test.LoginTest - clicked on login button
+15:34:23.450 [TestNG-tests-1] ERROR test.LoginTest - Invalid UserName and password 
+15:34:27.723 [TestNG-tests-1] DEBUG test.LoginTest - Browser closed
+15:41:32.491 [TestNG-tests-1] DEBUG test.LoginTest - Browser got Launched
+15:41:36.660 [TestNG-tests-1] DEBUG test.LoginTest - Navigated to the application
+15:41:37.781 [TestNG-tests-1] DEBUG test.LoginTest - clicked on my account DropDown
+15:41:38.771 [TestNG-tests-1] DEBUG test.LoginTest - clicked on LoginOption
+15:41:39.128 [TestNG-tests-1] DEBUG test.LoginTest - Entered UserName
+15:41:39.449 [TestNG-tests-1] DEBUG test.LoginTest - Entered Password
+15:41:40.965 [TestNG-tests-1] DEBUG test.LoginTest - clicked on login button
+15:41:41.182 [TestNG-tests-1] INFO  test.LoginTest - User Logged in successfully
+15:41:41.372 [TestNG-tests-1] DEBUG test.LoginTest - Browser closed
+15:41:43.632 [TestNG-tests-1] DEBUG test.LoginTest - Browser got Launched
+15:41:44.642 [TestNG-tests-1] DEBUG test.LoginTest - Navigated to the application
+15:41:44.784 [TestNG-tests-1] DEBUG test.LoginTest - clicked on my account DropDown
+15:41:45.166 [TestNG-tests-1] DEBUG test.LoginTest - clicked on LoginOption
+15:41:45.441 [TestNG-tests-1] DEBUG test.LoginTest - Entered UserName
+15:41:45.629 [TestNG-tests-1] DEBUG test.LoginTest - Entered Password
+15:41:46.145 [TestNG-tests-1] DEBUG test.LoginTest - clicked on login button
+15:41:46.340 [TestNG-tests-1] INFO  test.LoginTest - User Logged in successfully
+15:41:46.509 [TestNG-tests-1] DEBUG test.LoginTest - Browser closed
+15:41:48.642 [TestNG-tests-1] DEBUG test.LoginTest - Browser got Launched
+15:41:50.054 [TestNG-tests-1] DEBUG test.LoginTest - Navigated to the application
+15:41:50.229 [TestNG-tests-1] DEBUG test.LoginTest - clicked on my account DropDown
+15:41:50.680 [TestNG-tests-1] DEBUG test.LoginTest - clicked on LoginOption
+15:41:50.946 [TestNG-tests-1] DEBUG test.LoginTest - Entered UserName
+15:41:51.147 [TestNG-tests-1] DEBUG test.LoginTest - Entered Password
+15:41:51.617 [TestNG-tests-1] DEBUG test.LoginTest - clicked on login button
+15:42:01.784 [TestNG-tests-1] ERROR test.LoginTest - Invalid UserName and password 
+15:42:06.063 [TestNG-tests-1] DEBUG test.LoginTest - Browser closed
+15:59:15.414 [TestNG-tests-1] DEBUG test.LoginTest - Browser got Launched
+15:59:20.660 [TestNG-tests-1] DEBUG test.LoginTest - Navigated to the application
+15:59:21.902 [TestNG-tests-1] DEBUG test.LoginTest - clicked on my account DropDown
+15:59:22.568 [TestNG-tests-1] DEBUG test.LoginTest - clicked on LoginOption
+15:59:22.906 [TestNG-tests-1] DEBUG test.LoginTest - Entered UserName
+15:59:23.149 [TestNG-tests-1] DEBUG test.LoginTest - Entered Password
+15:59:23.801 [TestNG-tests-1] DEBUG test.LoginTest - clicked on login button
+15:59:24.188 [TestNG-tests-1] INFO  test.LoginTest - User Logged in successfully
+15:59:24.865 [TestNG-tests-1] DEBUG test.LoginTest - Browser closed
+15:59:28.100 [TestNG-tests-1] DEBUG test.LoginTest - Browser got Launched
+15:59:29.422 [TestNG-tests-1] DEBUG test.LoginTest - Navigated to the application
+15:59:29.636 [TestNG-tests-1] DEBUG test.LoginTest - clicked on my account DropDown
+15:59:30.803 [TestNG-tests-1] DEBUG test.LoginTest - clicked on LoginOption
+15:59:31.275 [TestNG-tests-1] DEBUG test.LoginTest - Entered UserName
+15:59:31.566 [TestNG-tests-1] DEBUG test.LoginTest - Entered Password
+15:59:32.214 [TestNG-tests-1] DEBUG test.LoginTest - clicked on login button
+15:59:32.416 [TestNG-tests-1] INFO  test.LoginTest - User Logged in successfully
+15:59:32.689 [TestNG-tests-1] DEBUG test.LoginTest - Browser closed
+15:59:34.641 [TestNG-tests-1] DEBUG test.LoginTest - Browser got Launched
+15:59:36.616 [TestNG-tests-1] DEBUG test.LoginTest - Navigated to the application
+15:59:36.871 [TestNG-tests-1] DEBUG test.LoginTest - clicked on my account DropDown
+15:59:37.267 [TestNG-tests-1] DEBUG test.LoginTest - clicked on LoginOption
+15:59:37.501 [TestNG-tests-1] DEBUG test.LoginTest - Entered UserName
+15:59:37.701 [TestNG-tests-1] DEBUG test.LoginTest - Entered Password
+15:59:38.187 [TestNG-tests-1] DEBUG test.LoginTest - clicked on login button
+15:59:48.253 [TestNG-tests-1] ERROR test.LoginTest - Invalid UserName and password 
+15:59:48.404 [TestNG-tests-1] DEBUG test.LoginTest - Browser closed
+17:05:40.762 [TestNG-tests-1] DEBUG test.LoginTest - Browser got Launched
+17:05:50.928 [TestNG-tests-1] DEBUG test.LoginTest - Navigated to the application
+17:05:51.377 [TestNG-tests-1] DEBUG test.LoginTest - clicked on my account DropDown
+17:05:52.765 [TestNG-tests-1] DEBUG test.LoginTest - clicked on LoginOption
+17:05:53.283 [TestNG-tests-1] DEBUG test.LoginTest - Entered UserName
+17:05:53.585 [TestNG-tests-1] DEBUG test.LoginTest - Entered Password
+17:05:54.764 [TestNG-tests-1] DEBUG test.LoginTest - clicked on login button
+17:05:54.915 [TestNG-tests-1] INFO  test.LoginTest - User Logged in successfully
+17:05:57.523 [TestNG-tests-1] DEBUG test.LoginTest - Browser closed
+17:06:01.265 [TestNG-tests-1] DEBUG test.LoginTest - Browser got Launched
+17:06:03.047 [TestNG-tests-1] DEBUG test.LoginTest - Navigated to the application
+17:06:03.252 [TestNG-tests-1] DEBUG test.LoginTest - clicked on my account DropDown
+17:06:03.658 [TestNG-tests-1] DEBUG test.LoginTest - clicked on LoginOption
+17:06:03.998 [TestNG-tests-1] DEBUG test.LoginTest - Entered UserName
+17:06:04.277 [TestNG-tests-1] DEBUG test.LoginTest - Entered Password
+17:06:04.754 [TestNG-tests-1] DEBUG test.LoginTest - clicked on login button
+17:06:04.930 [TestNG-tests-1] INFO  test.LoginTest - User Logged in successfully
+17:06:05.083 [TestNG-tests-1] DEBUG test.LoginTest - Browser closed
+17:06:07.056 [TestNG-tests-1] DEBUG test.LoginTest - Browser got Launched
+17:06:09.016 [TestNG-tests-1] DEBUG test.LoginTest - Navigated to the application
+17:06:09.188 [TestNG-tests-1] DEBUG test.LoginTest - clicked on my account DropDown
+17:06:09.786 [TestNG-tests-1] DEBUG test.LoginTest - clicked on LoginOption
+17:06:10.078 [TestNG-tests-1] DEBUG test.LoginTest - Entered UserName
+17:06:10.329 [TestNG-tests-1] DEBUG test.LoginTest - Entered Password
+17:06:10.840 [TestNG-tests-1] DEBUG test.LoginTest - clicked on login button
+17:06:20.955 [TestNG-tests-1] ERROR test.LoginTest - Invalid UserName and password 
+17:06:21.143 [TestNG-tests-1] DEBUG test.LoginTest - Browser closed
+17:13:11.566 [TestNG-tests-1] DEBUG test.LoginTest - Browser got Launched
+17:13:14.019 [TestNG-tests-1] DEBUG test.LoginTest - Navigated to the application
+17:13:14.674 [TestNG-tests-1] DEBUG test.LoginTest - clicked on my account DropDown
+17:13:15.706 [TestNG-tests-1] DEBUG test.LoginTest - clicked on LoginOption
+17:13:16.323 [TestNG-tests-1] DEBUG test.LoginTest - Entered UserName
+17:13:17.088 [TestNG-tests-1] DEBUG test.LoginTest - Entered Password
+17:13:19.072 [TestNG-tests-1] DEBUG test.LoginTest - clicked on login button
+17:13:19.638 [TestNG-tests-1] INFO  test.LoginTest - User Logged in successfully
+17:13:20.942 [TestNG-tests-1] DEBUG test.LoginTest - Browser closed
+17:13:26.163 [TestNG-tests-1] DEBUG test.LoginTest - Browser got Launched
+17:13:27.605 [TestNG-tests-1] DEBUG test.LoginTest - Navigated to the application
+17:13:27.777 [TestNG-tests-1] DEBUG test.LoginTest - clicked on my account DropDown
+17:13:28.332 [TestNG-tests-1] DEBUG test.LoginTest - clicked on LoginOption
+17:13:28.581 [TestNG-tests-1] DEBUG test.LoginTest - Entered UserName
+17:13:28.768 [TestNG-tests-1] DEBUG test.LoginTest - Entered Password
+17:13:29.251 [TestNG-tests-1] DEBUG test.LoginTest - clicked on login button
+17:13:29.425 [TestNG-tests-1] INFO  test.LoginTest - User Logged in successfully
+17:13:29.601 [TestNG-tests-1] DEBUG test.LoginTest - Browser closed
+17:13:31.779 [TestNG-tests-1] DEBUG test.LoginTest - Browser got Launched
+17:13:32.728 [TestNG-tests-1] DEBUG test.LoginTest - Navigated to the application
+17:13:32.974 [TestNG-tests-1] DEBUG test.LoginTest - clicked on my account DropDown
+17:13:33.414 [TestNG-tests-1] DEBUG test.LoginTest - clicked on LoginOption
+17:13:33.672 [TestNG-tests-1] DEBUG test.LoginTest - Entered UserName
+17:13:33.864 [TestNG-tests-1] DEBUG test.LoginTest - Entered Password
+17:13:34.300 [TestNG-tests-1] DEBUG test.LoginTest - clicked on login button
+17:13:44.490 [TestNG-tests-1] ERROR test.LoginTest - Invalid UserName and password 
+17:13:48.757 [TestNG-tests-1] DEBUG test.LoginTest - Browser closed

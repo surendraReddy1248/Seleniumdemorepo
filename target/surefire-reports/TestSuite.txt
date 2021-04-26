@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 45.763 s <<< FAILURE! - in TestSuite
+test.OmayoTest.launchOmayo  Time elapsed: 8.134 s  <<< FAILURE!
+java.lang.AssertionError: expected [omayo (QAFox.com)1123] but found [omayo (QAFox.com)]
+	at test.OmayoTest.launchOmayo(OmayoTest.java:23)
+
