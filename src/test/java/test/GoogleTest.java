@@ -16,6 +16,8 @@ public class GoogleTest extends Base{
 		
 		WebDriver driver = initializeDriver();
 		driver.get("https://www.google.com/");
+		
+		System.out.println("Navigated to google page");
 		String actualtitle = driver.getTitle();
 		String expectedTitle="Google";
 		Assert.assertEquals(actualtitle, expectedTitle);	
